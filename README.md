@@ -73,15 +73,13 @@ Compare monthly revenue and profit for better business decision-making.
 
 ## 📷 Dashboard Preview
 
-![image alt](https://github.com/MKCHLakvindi/netflix-movie-data-analysis/blob/main/Results/The%20most%20frequent%20genre.PNG)
+![image alt](https://github.com/MKCHLakvindi/coffee-shop-sales-dashboard-excel/blob/main/Results/Overview.PNG)
 
-![image alt](https://github.com/MKCHLakvindi/netflix-movie-data-analysis/blob/main/Results/Genres%20with%20the%20highest%20number%20of%20votes.PNG)
+![image alt](https://github.com/MKCHLakvindi/coffee-shop-sales-dashboard-excel/blob/main/Results/Dashboard1.PNG)
 
-![image alt](https://github.com/MKCHLakvindi/netflix-movie-data-analysis/blob/main/Results/The%20most%20popular%20movie%20and%20its%20genre.PNG)
+![image alt](https://github.com/MKCHLakvindi/coffee-shop-sales-dashboard-excel/blob/main/Results/Dashboard2.PNG)
 
-![image alt](https://github.com/MKCHLakvindi/netflix-movie-data-analysis/blob/main/Results/The%20least%20popular%20movie%20and%20its%20genre.PNG)
-
-![image alt](https://github.com/MKCHLakvindi/netflix-movie-data-analysis/blob/main/Results/The%20year%20with%20the%20most%20films.PNG)
+![image alt](https://github.com/MKCHLakvindi/coffee-shop-sales-dashboard-excel/blob/main/Results/Dashboard3.PNG)
 
 ---
 
